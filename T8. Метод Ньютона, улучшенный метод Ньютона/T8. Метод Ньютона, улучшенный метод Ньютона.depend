@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513795571 source:d:\Программирование\Мои проекты\Методы оптимизации ДЗ\t8. Метод Ньютона, улучшенный метод Ньютона\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+
